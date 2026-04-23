@@ -92,3 +92,7 @@ dependencies:
   flutter_blue_plus: ^1.32.0
   flutter_joystick: ^0.2.2
 ```
+
+
+<img width="500" height="281" alt="truck" src="https://github.com/user-attachments/assets/fca82185-9616-4b39-ad94-f124ed1b9c8c" />
+
